@@ -1,1 +1,13 @@
 This directory is the web server root. Put your files here and point your browser to https://localhost:8443 when the server is running!
+
+Here's some text for Brotli to compress:
+
+Pellentesque luctus sodales mi, eget dapibus urna pharetra eget. Praesent ut metus mauris. Donec eleifend nec velit in tincidunt. In elementum, ligula sit amet iaculis eleifend, erat risus laoreet dui, in gravida ex nulla quis neque. Vivamus ac erat sed mi viverra cursus. Suspendisse pellentesque elementum urna quis malesuada. Maecenas pulvinar suscipit lacus non tempus.
+
+Aenean vel libero id mauris rhoncus tincidunt id ut ante. Donec consectetur mollis finibus. Quisque a metus aliquet neque mattis ornare eget eu sapien. Donec aliquam odio nulla, eget pellentesque justo vehicula at. Phasellus molestie diam metus, sed iaculis risus fringilla quis. Vestibulum arcu sem, pellentesque vel pellentesque porttitor, facilisis tincidunt turpis. In sit amet viverra nulla. Donec luctus eros libero, ut viverra sapien laoreet et.
+
+Phasellus lobortis arcu urna, a auctor mauris sagittis at. Etiam tempus elit id nisl auctor pulvinar. Suspendisse eu ex id lacus porta fringilla. Donec ac tortor euismod est maximus feugiat non a purus. Duis ultricies tortor dolor, et interdum dolor mollis eget. Quisque tortor augue, blandit eu porttitor non, convallis vel leo. Morbi aliquam arcu id risus interdum gravida. Vestibulum sed placerat mi. Cras porttitor, quam ut luctus interdum, ante lectus venenatis velit, varius dapibus sem nulla in nisl. Pellentesque fermentum mauris tristique tincidunt feugiat. Duis at molestie nibh.
+
+Aliquam luctus rutrum libero ut gravida. Mauris eu justo a sem feugiat faucibus. Ut condimentum mattis leo, id bibendum turpis pharetra eget. Nulla a metus auctor, imperdiet ante id, egestas mi. Sed vestibulum, ligula molestie aliquam interdum, augue lorem tincidunt lectus, vitae pretium diam lectus vestibulum elit. Curabitur finibus lorem vitae ligula blandit rhoncus nec vitae libero. Morbi justo urna, luctus eu ultricies et, venenatis non libero. Fusce ut ullamcorper lectus. Mauris quam libero, malesuada a fringilla ut, hendrerit vitae nisi.
+
+Maecenas ullamcorper dolor accumsan, aliquet magna at, rutrum nibh. Donec ex arcu, efficitur et risus viverra, semper accumsan purus. Nulla faucibus vulputate finibus. Suspendisse faucibus, orci vel laoreet semper, arcu quam posuere risus, id tristique urna erat sed nisl. Etiam consectetur sem eros, at elementum nisi vehicula quis. Donec ac massa in turpis volutpat scelerisque. Pellentesque nulla arcu, molestie in magna at, convallis condimentum nunc. In eu pulvinar dui. Nunc hendrerit, magna sed scelerisque ultrices, nisl lorem sodales lacus, a gravida elit arcu vel sapien.
